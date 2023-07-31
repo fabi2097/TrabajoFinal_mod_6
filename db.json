@@ -1,0 +1,158 @@
+{
+  "pacientes": [
+    {
+      "id": 1,
+      "nombre": "Ricardo Gonzales",
+      "edad": 45,
+      "genero": "Masculino",
+      "direccion": "Avenida 789, Norte",
+      "telefono": "720-23456"
+    },
+    {
+      "id": 2,
+      "nombre": "Sofia Aguirre",
+      "edad": 28,
+      "genero": "Femenino",
+      "direccion": "Calle Principal, Pueblo Nuevo",
+      "telefono": "710-87654"
+    },
+    {
+      "id": 3,
+      "nombre": "Miguel Romero",
+      "edad": 30,
+      "genero": "Masculino",
+      "direccion": "Plaza del Este, Villa",
+      "telefono": "780-13579"
+    },
+    {
+      "id": 4,
+      "nombre": "Valeria Torres",
+      "edad": 60,
+      "genero": "Femenino",
+      "direccion": "Avenida del Sol, Metropolis",
+      "telefono": "720-22233"
+    },
+    {
+      "id": 5,
+      "nombre": "Alfredo Mendoza",
+      "edad": 27,
+      "genero": "Masculino",
+      "direccion": "Calle 890, Ciudad",
+      "telefono": "740-44455"
+    },
+    {
+      "id": 6,
+      "nombre": "Marcela Gutierrez",
+      "edad": 55,
+      "genero": "Femenino",
+      "direccion": "Calle Luna, Villa",
+      "telefono": "720-99900"
+    },
+    {
+      "id": 7,
+      "nombre": "Roberto Ortiz",
+      "edad": 38,
+      "genero": "Masculino",
+      "direccion": "Avenida del Río, Ciudad",
+      "telefono": "770-88877"
+    },
+    {
+      "id": 8,
+      "nombre": "Carolina Salazar",
+      "edad": 32,
+      "genero": "Femenino",
+      "direccion": "Calle del Bosque, Pueblo",
+      "telefono": "780-66644"
+    }
+  ],
+  "consultas": [
+    {
+      "id": 1,
+      "pacientesId": 1,
+      "fecha": "2023-08-01",
+      "motivo": "Dolor en la rodilla",
+      "diagnostico": "Lesion del menisco",
+      "tratamiento": "Fisioterapia y reposo"
+    },
+    {
+      "id": 2,
+      "pacientesId": 2,
+      "fecha": "2023-08-02",
+      "motivo": "Fiebre y escalofrios",
+      "diagnostico": "Gripe",
+      "tratamiento": "Antivirales y reposo"
+    },
+    {
+      "id": 3,
+      "pacientesId": 3,
+      "fecha": "2023-08-02",
+      "motivo": "Dolor en la espalda",
+      "diagnostico": "Hernia discal",
+      "tratamiento": "Analgesicos y fisioterapia"
+    },
+    {
+      "id": 4,
+      "pacientesId": 4,
+      "fecha": "2023-08-03",
+      "motivo": "Control de hipertensión",
+      "diagnostico": "Hipertensión bajo control",
+      "tratamiento": "Medicamentos antihipertensivos y dieta baja en sal"
+    },
+    {
+      "id": 5,
+      "pacientesId": 5,
+      "fecha": "2023-08-03",
+      "motivo": "Dolor de garganta",
+      "diagnostico": "Amigdalitis",
+      "tratamiento": "Antibioticos y reposo"
+    },
+    {
+      "id": 6,
+      "pacientesId": 6,
+      "fecha": "2023-08-04",
+      "motivo": "Dolor de oído",
+      "diagnostico": "Infección de oído",
+      "tratamiento": "Antibioticos y analgésicos"
+    },
+    {
+      "id": 7,
+      "pacientesId": 7,
+      "fecha": "2023-08-04",
+      "motivo": "Control de diabetes",
+      "diagnostico": "Diabetes tipo 2",
+      "tratamiento": "Insulina y dieta balanceada"
+    },
+    {
+      "id": 8,
+      "pacientesId": 8,
+      "fecha": "2023-08-05",
+      "motivo": "Control prenatal",
+      "diagnostico": "Embarazo saludable",
+      "tratamiento": "Ácido fólico y controles regulares"
+    },
+    {
+      "id": 9,
+      "pacientesId": 1,
+      "fecha": "2023-08-05",
+      "motivo": "Dolor de cabeza",
+      "diagnostico": "Cefalea tensional",
+      "tratamiento": "Analgesicos y técnicas de relajación"
+    },
+    {
+      "id": 10,
+      "pacientesId": 3,
+      "fecha": "2023-08-06",
+      "motivo": "Dolor de estómago",
+      "diagnostico": "Gastritis",
+      "tratamiento": "Antiacidos y dieta blanda"
+    },
+    {
+      "id": 11,
+      "pacientesId": 2,
+      "fecha": "2023-08-06",
+      "motivo": "Dolor en la muñeca",
+      "diagnostico": "Tendinitis",
+      "tratamiento": "Antiinflamatorios y férula"
+    }
+  ]
+}
